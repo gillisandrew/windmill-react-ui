@@ -136,7 +136,7 @@
       ".*\\.d\\.ts"
     ],
     "collectCoverageFrom": [
-      "src/**/*.tsx?$",
+      "src/**/*.{ts,tsx}",
       "!src/Transition.js"
     ],
     "setupFilesAfterEnv": [
